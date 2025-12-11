@@ -1,2 +1,1 @@
-"print('Hello, Git!')" 
-"print('Welcome to version control!')" 
+"print'Hello, Git!')" 
